@@ -1,8 +1,7 @@
 # Memes Share
 
-Memes Share is a social media web application that allows users to create posts containing text and images. The application facilitates user engagement through features like upvoting, downvoting, and commenting on posts, providing an interactive platform for sharing and interacting with memes and content.
+social media web application that allows users to create posts containing text and images. The application facilitates user engagement through features like upvoting, downvoting, and commenting on posts, providing an interactive platform for sharing and interacting with memes and content.
 
-Here's the link to Frontend: https://github.com/prashant-th18/Memes-Share-Client
 
 ## Features
 
@@ -13,6 +12,3 @@ Here's the link to Frontend: https://github.com/prashant-th18/Memes-Share-Client
 - Efficient data storage and retrieval using MongoDB, providing scalability as the user base expands.
 - Integration of the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
-## Acknowledgements
-
-- The Memes Share application was developed as a personal project by [Prashant Thakur].
